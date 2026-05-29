@@ -17,6 +17,6 @@ Experienced in engineering relational databases from scratch using Python and tr
 `NumPy` | `Pandas` | `SciPy` | `Statsmodels`
 
 ### 📈 Data Visualization
-`Tableau` | `Matplotlib` | `Plotly` | `Seaborn`
+`PowerBI` | `Tableau` | `Matplotlib` | `Plotly` | `Seaborn`
 
 ---
